@@ -19,10 +19,6 @@ def success(name):
       </form>
    </body>
 </html>'''
-   
-
-   
-
 
 @app.route('/index',methods = ['POST', 'GET'])
 def index():
